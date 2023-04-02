@@ -1,4 +1,5 @@
-# aprendendo
-Aprendendo
+# Aula de Versionamento
 
-readme de exemplo
+Readme de Exemplo
+
+Lembrei do comando: git status
